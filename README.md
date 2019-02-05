@@ -1,0 +1,2 @@
+# conscious
+Bot for finance
